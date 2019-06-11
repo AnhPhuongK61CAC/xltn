@@ -1,0 +1,56 @@
+United States
+Washington DC
+North America
+325.127.634
+9.834.000 km2
+USA.png
+Brazil
+Brasilia
+South America
+203.657.210
+8.516.000 km2
+Brazil.png
+China
+Beijing
+East Asia
+1.401.586.609
+9.597.000 km2
+China.png
+Russia
+Moscow
+North Eurasian continent
+142.098.141
+17.100.000 km2
+Russia.jpg
+Vietnam
+Hanoi
+Southeast Asia
+93.447.601
+331.210 km2
+Vietnam.png
+Japan
+Tokyo
+East Asia
+126.573.481
+377.972 km2
+Japan.png
+England
+London 
+West Europe
+64.715.810
+130.395 km2
+England.png
+Korea
+Seoul
+East Asia
+50.293.439
+100.210 km2
+Korea.png
+Thailand
+Bangkok
+Southeast Asia
+67.959.359
+513.120 km2
+Thailand.png
+
+
