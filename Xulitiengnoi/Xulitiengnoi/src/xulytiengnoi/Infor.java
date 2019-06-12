@@ -15,7 +15,7 @@ import java.util.stream.Collector;
 
 /**
  *
- * @author huan
+ * @author phuong
  */
 public class Infor {
     
