@@ -65,7 +65,6 @@ public class Hienthi extends javax.swing.JFrame {
                 quocki1= w.getQuocki();
             }
         }
-        search = null;
     }
     private static Microphone mic = new Microphone(FLACFileWriter.FLAC);
     private static GSpeechDuplex duplex = new GSpeechDuplex("AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw");
@@ -284,6 +283,7 @@ public class Hienthi extends javax.swing.JFrame {
             } else {
                 JOptionPane.showMessageDialog(rootPane, "Bạn nói lại được không !");
             }
+            search = null;
         }
         if(n%2==0){
             if(country_name.getText().length()==0){
